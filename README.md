@@ -13,8 +13,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-html5-css-BCndQtyNKz)
+- [Live Site URL](https://social-proof-section-livid-delta.vercel.app/)
 
 ## My process
 
@@ -34,4 +34,4 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Salah Shadoud](https://www.frontendmentor.io/profile/SalahShadoud)
